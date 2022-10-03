@@ -22,7 +22,7 @@ void _swap(int *a , int *b){
 
 int main(){
     int x, y;
-   printf("Enter the numbers X and Y: ");
+   printf("Enter the numbers X and Y : ");
    scanf("%d  %d", &x, &y);
 
     swap(x , y);
